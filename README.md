@@ -1,4 +1,4 @@
-BukkitTelnet
+RainbowTelnet
 ============
 
 BukkitTelnet is a Telnet server for Minecraft. It allows you to remotely administrate your server via any Telnet client.
